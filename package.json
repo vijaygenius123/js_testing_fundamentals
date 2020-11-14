@@ -1,0 +1,21 @@
+{
+  "name": "js_testing_fundamentals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assertion-library.js",
+  "type": "module",
+  "scripts": {
+    "test": "node simple.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaygenius123/js_testing_fundamentals.git"
+  },
+  "keywords": [],
+  "author": "Vijayaraghavan Sundararaman <vijaygenius123@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vijaygenius123/js_testing_fundamentals/issues"
+  },
+  "homepage": "https://github.com/vijaygenius123/js_testing_fundamentals#readme"
+}
