@@ -2,10 +2,10 @@
   "name": "js_testing_fundamentals",
   "version": "1.0.0",
   "description": "",
-  "main": "assertion-library.js",
+  "main": "js_testing_fundamentals",
   "type": "module",
   "scripts": {
-    "test": "node simple.js"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,13 @@
   "bugs": {
     "url": "https://github.com/vijaygenius123/js_testing_fundamentals/issues"
   },
-  "homepage": "https://github.com/vijaygenius123/js_testing_fundamentals#readme"
+  "homepage": "https://github.com/vijaygenius123/js_testing_fundamentals#readme",
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "7.12.1",
+    "@babel/preset-env": "7.12.1",
+    "babel-core": "6.26.3",
+    "babel-jest": "26.6.3",
+    "jest": "26.6.3",
+    "regenerator-runtime": "0.13.7"
+  }
 }
